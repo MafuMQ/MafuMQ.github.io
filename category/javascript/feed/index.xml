@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Javascript &#8211; Mafu&#039;s Portfolio</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Sat, 05 Mar 2022 12:39:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<item>
+		<title>Tic-Tac-Toe</title>
+		<link>./../../../tic-tac-toe/index.html</link>
+		
+		<dc:creator><![CDATA[mafu]]></dc:creator>
+		<pubDate>Sat, 26 Feb 2022 15:25:03 +0000</pubDate>
+				<category><![CDATA[Javascript]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=23</guid>
+
+					<description><![CDATA[A Tic-Tac-Toe Javascript web app/game made using HTML, CSS and Javascript &#8211;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>NoteBook App</title>
+		<link>./../../../notebook-app/index.html</link>
+		
+		<dc:creator><![CDATA[mafu]]></dc:creator>
+		<pubDate>Wed, 05 Jan 2022 12:37:00 +0000</pubDate>
+				<category><![CDATA[Javascript]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=42</guid>
+
+					<description><![CDATA[A Javascript notebook app.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

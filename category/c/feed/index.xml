@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>C++ &#8211; Mafu&#039;s Portfolio</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Sat, 05 Mar 2022 13:04:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<item>
+		<title>Student Grade Class</title>
+		<link>./../../../student-grade-class/index.html</link>
+		
+		<dc:creator><![CDATA[mafu]]></dc:creator>
+		<pubDate>Wed, 02 Mar 2022 12:57:36 +0000</pubDate>
+				<category><![CDATA[C++]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=53</guid>
+
+					<description><![CDATA[C++ App to input and calculate year mark, average mark etc. of predefined students]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Week Salary Calculator</title>
+		<link>./../../../week-salary-calculator/index.html</link>
+		
+		<dc:creator><![CDATA[mafu]]></dc:creator>
+		<pubDate>Wed, 02 Mar 2022 12:53:35 +0000</pubDate>
+				<category><![CDATA[C++]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=50</guid>
+
+					<description><![CDATA[C++ app to calculate weekly salary for an employee]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Payslip App</title>
+		<link>./../../../payslip-app/index.html</link>
+		
+		<dc:creator><![CDATA[mafu]]></dc:creator>
+		<pubDate>Wed, 02 Mar 2022 12:50:45 +0000</pubDate>
+				<category><![CDATA[C++]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=46</guid>
+
+					<description><![CDATA[C++ App for calculating employee salary and overtime, using predefined parameters.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
