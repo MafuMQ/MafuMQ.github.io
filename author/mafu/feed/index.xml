@@ -12,14 +12,46 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description></description>
-	<lastBuildDate>Sat, 05 Mar 2022 13:04:46 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 03 May 2022 16:24:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
 	<item>
+		<title>Twitter Clone (Homepage Only)</title>
+		<link>./../../../twitter-clone-homepage-only/index.html</link>
+		
+		<dc:creator><![CDATA[mafu]]></dc:creator>
+		<pubDate>Tue, 03 May 2022 15:23:43 +0000</pubDate>
+				<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[React]]></category>
+		<category><![CDATA[UI/UX]]></category>
+		<category><![CDATA[Web]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=101</guid>
+
+					<description><![CDATA[A React Twitter Clone (Homepage Only)]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Registered Students Admin App</title>
+		<link>./../../../registered-students-admin-app/index.html</link>
+		
+		<dc:creator><![CDATA[mafu]]></dc:creator>
+		<pubDate>Tue, 03 May 2022 15:17:29 +0000</pubDate>
+				<category><![CDATA[Desktop]]></category>
+		<category><![CDATA[Visual Studio]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=95</guid>
+
+					<description><![CDATA[A VB.NET Desktop app that manages and edits a registered-students database.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Employee Funds Info App</title>
 		<link>./../../../employee-funds-info-app/index.html</link>
 		
@@ -49,15 +81,17 @@
 		
 			</item>
 		<item>
-		<title>Week Salary Calculator</title>
-		<link>./../../../week-salary-calculator/index.html</link>
+		<title>Facial Recognition (In Progress)</title>
+		<link>./../../../facial-recognition-in-progress/index.html</link>
 		
 		<dc:creator><![CDATA[mafu]]></dc:creator>
-		<pubDate>Wed, 02 Mar 2022 12:53:35 +0000</pubDate>
+		<pubDate>Wed, 02 Mar 2022 10:54:00 +0000</pubDate>
 				<category><![CDATA[C++]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=50</guid>
+		<category><![CDATA[Desktop]]></category>
+		<category><![CDATA[Qt]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=122</guid>
 
-					<description><![CDATA[C++ app to calculate weekly salary for an employee]]></description>
+					<description><![CDATA[A C++ App developed on the Qt framework, using the OpenCV class/library for face detection, and facial recognition of still images, and videos.]]></description>
 		
 		
 		
@@ -83,23 +117,10 @@
 		<dc:creator><![CDATA[mafu]]></dc:creator>
 		<pubDate>Sat, 26 Feb 2022 15:25:03 +0000</pubDate>
 				<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">./../../../index.html?p=23</guid>
 
-					<description><![CDATA[A Tic-Tac-Toe Javascript web app/game made using HTML, CSS and Javascript &#8211;]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>NoteBook App</title>
-		<link>./../../../notebook-app/index.html</link>
-		
-		<dc:creator><![CDATA[mafu]]></dc:creator>
-		<pubDate>Wed, 05 Jan 2022 12:37:00 +0000</pubDate>
-				<category><![CDATA[Javascript]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=42</guid>
-
-					<description><![CDATA[A Javascript notebook app.]]></description>
+					<description><![CDATA[A Tic-Tac-Toe Javascript web app/game made using HTML, CSS and Javascript]]></description>
 		
 		
 		
